@@ -1,0 +1,8 @@
+{
+    ".html": "text/html",
+    ".css": "text/css",
+    ".js": "text/javascript",
+    ".gz": "application/x-gzip",
+    ".h": "text/plain",
+    ".gif": "image/gif"
+}
